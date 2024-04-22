@@ -1,1 +1,1 @@
-# PokedexSPA
+# Pokedex
